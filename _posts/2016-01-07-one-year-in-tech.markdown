@@ -6,7 +6,7 @@ categories: tech
 
 One year ago, I enrolled in a web development immersive course at [General Assembly][general-assembly].
 
-I can say that making this career shift was among the better decisions I have made in my life. And, the number of people to whom I owe a debt of gratitude is quite long.
+I can say that making this career shift was among the better decisions I have made in my life. And, the list of people to whom I owe a debt of gratitude is quite long.
 
 Right now, though, I want to reflect on my experience in the tech industry and some reasons I'm grateful to be a part of it. Often, it's easy to get overwhelmed by the heavy attention to detail that being in tech requires and even easier to forget how fortunate we are to be on this journey.
 
