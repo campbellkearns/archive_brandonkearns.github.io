@@ -1,8 +1,0 @@
----
-layout: post
-title: Chia Seed
----
-
-What can we learn from the chia seed?
-
-Tiny & dense. Rarely thought of but oh so powerful. When submerged in liquid, the chia seed takes on its surroundings gracefully. Rather than losing itself it embraces its surroundings bringing itself closer to the seeds around it. The seeds coalesce and create a gel that binds them together almost as if they are depending on one another to be able to endure this foreign environment.
