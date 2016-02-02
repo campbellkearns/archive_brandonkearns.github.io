@@ -8,6 +8,6 @@ Meetups are an excellent way to stay involved in the community of people with wh
 
 But, I've got news for you: people aren't really interested in that. Simply by attending you have expressed your interest and that is, often, plenty to initiate you into the community. Think about it. There is not much information that we cannot access online. If people wanted to hoard their knowledge they would have just stayed at home. The point is to interact, so get to mingling! Here are some tips for attending a meetup without any prior experience/little knowledge of the topic:
 
-1 get out of your head
+#1
 
 
