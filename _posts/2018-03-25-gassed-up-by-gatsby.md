@@ -1,6 +1,6 @@
 ---
-title: Gassed Up By Gatsby
 layout: post
+title: Gassed Up By Gatsby
 ---
 
 Trying to get a workflow going from an iOS device to publish to my blog on the go!
