@@ -1,0 +1,1 @@
+People are not obligated to be invested in your ideas or even the presentation of them. Have empathy for the fact that they are simply trying to convey their own ideas and that the presence of their ideas & even the overlap that their ideas would have with yours does not preclude your ideas being any more or less valuable. Again, it comes down to what gets _done_.
